@@ -6,6 +6,13 @@ Hi, I am modifing file before rebase. Hi Supriya
 Hello I am ashish, hello everyone . hello World...
 
 
+
+Hi changes from myfeature branch.... Hello this Ashish Patel
+Doing some changes in local.... Hi this Ashishs local change.hi this is latest change. abc
+
+
+
+
 # TEAM
 
     <name> Ashish Patel <twitter>
