@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, I am modifing file before rebase.
+Hello I am ashish
 
 # TEAM
 
@@ -17,5 +18,5 @@ Hi, I am modifing file before rebase.
     HTML5, CSS3
     jQuery, Modernizr
     JSON, XML
-    Docker, Java
+    Docker, Java, javascript
 
