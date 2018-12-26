@@ -7,9 +7,7 @@
 
 # THANKS
 
-    Ashish
-    abc@gmail.com
-    Engineer
+    Thanks to all my students
 
 
 # TECHNOLOGY COLOPHON
