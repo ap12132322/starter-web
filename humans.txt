@@ -9,10 +9,10 @@
 
     Ashish
     abc@gmail.com
-    DevOps Engineer
+    DevOps Engineer, I am Ashish
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
-    JSON, XML
+    JSON, XML, AJAX
